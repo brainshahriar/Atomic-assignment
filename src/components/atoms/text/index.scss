@@ -1,0 +1,29 @@
+.a-text {
+  $root: &;
+  margin: 0;
+  font-family: $font-family-helvetica;
+  font-style: normal;
+  font-weight: $font-regular;
+  &--font18 {
+    font-weight: 700;
+    font-size: 17px;
+    display: flex;
+    align-items: center; 
+    color: $color-white;
+    background-color:$button-background;
+  }
+  &--font14 {
+    width: 230px;
+    font-weight: 700;
+    font-size: 24px;
+    color:$text-color;
+  }
+  &--font12 {
+      font-style: normal;
+      font-weight: 700;
+      font-size: 14px;
+      display: flex;
+      align-items: center;
+      color:$text-color;
+  }
+}

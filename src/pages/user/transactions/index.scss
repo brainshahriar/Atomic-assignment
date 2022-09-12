@@ -1,0 +1,28 @@
+.p-userTransactions {
+  margin-bottom: 127px;
+  &__list {
+    background-color: $transactions-background-color;
+    margin-top: 38px;
+  }
+  &__content {
+    padding: 50px;
+    border: 2px solid $color-light-gray;
+    border-radius: 10px;
+  }
+  &__heading {
+  }
+  &__transactions {
+    margin-top: 30px;
+  }
+  &__transaction {
+    margin-bottom: 10px;
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+  &__button {
+    display: flex;
+    justify-content: center;
+    margin-top: 46px;
+  }
+}

@@ -1,0 +1,83 @@
+$button-background:#4d44b5;
+$hover-background:#1706d4;
+$text-color-transparent:#718096;
+$disable-color:#807ACA;
+$view-button:#48bb78;
+$edit-button:#ff6712;
+$delete-button: #e53e3e;
+$text-color: #2d3748;
+$text-color-shadow:rgba(0, 0, 0, 0.02);
+
+$color-pure-black: #000000;
+$color-black: #4c4743;
+$color-white: #ffffff;
+$color-light-gray: #f0f0f0;
+$color-paste-green: #5df888;
+$color-light-red: #f85d5d;
+$color-red: #ff4949;
+$color-gray-1: #858585;
+$color-pink: #fd749b;
+$color-blue: #281ac8;
+$color-dark-white: #d5d5d5;
+$heading-color: #858585;
+$color-lightblack: #5c5c5c;
+$color-gray: #ededed;
+$color-dark-red: #eb3232;
+$color-lightblack: #858585;
+$text-color-primary: #858585;
+$text-grap-color: #1cd1a1;
+$text-color-secondary: linear-gradient(
+  178.18deg,
+  #fd749b -13.56%,
+  #281ac8 158.3%
+);
+$text-color-red: #ff0000;
+$active-status-green-color: #8cee5d;
+$active-status-gray-color: #dedede;
+$header-border: #f7f7f7;
+$color-light-pink-1: #f3dbf9;
+$color-purple: rgba(179, 39, 245, 1);
+$color-dark-gray-1: #5c5c5c;
+
+//-----------------------Background Color----------------------
+
+$background-color-page: #FFF9FE;
+$transactions-background-color: $color-white;
+
+
+//-----------------------gradient colors----------------------
+$color-primary-purple-gradient: linear-gradient(
+  178.18deg,
+  #fd749b -13.56%,
+  #281ac8 158.3%
+);
+
+$color-secondary-pink-gradient: linear-gradient(
+  144.12deg,
+  #fc58b3 11.61%,
+  #feae68 100%
+);
+
+$color-gradient-blue: linear-gradient(
+  145.64deg,
+  #00e0ff 9.67%,
+  #0047ff 107.49%
+);
+
+$color-mixed-gradient: linear-gradient(
+  142.39deg,
+  #ff5e50 17.14%,
+  #fe5c6c 33.69%,
+  #e3658a 42.16%,
+  #b87eb0 50.17%,
+  #916cff 58.79%,
+  rgba(112, 188, 251, 0.917647) 67.83%,
+  #21c7fe 83.6%
+);
+
+$color-pink-gradient: linear-gradient(144.12deg, #fc58b3 11.61%, #feae68 100%);
+$color-secondary-pink-gradient: linear-gradient(
+  144.12deg,
+  #fc58b3 11.61%,
+  #feae68 100%
+);

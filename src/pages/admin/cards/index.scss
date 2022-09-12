@@ -1,0 +1,16 @@
+.p-adminCards {
+  &__content {
+    display: grid;
+    column-gap: 45px;
+    grid-template-columns: repeat(4, 1fr);
+    row-gap: 34px;
+
+    &__item {
+      display: flex;
+      align-items: center;
+      width: 184px;
+      height: 141px;
+      justify-content: center;
+    }
+  }
+}
